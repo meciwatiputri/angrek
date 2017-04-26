@@ -6,6 +6,10 @@
  	
  	public tambah() {
  		return true;
+ 
+ 	}
+ 	public ubahMhs() {
+ 		return true;
  	}
  	public daftarLirs(){
  		return true;
