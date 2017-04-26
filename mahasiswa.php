@@ -7,6 +7,10 @@
  	public tambah() {
  		return true;
  	}
+
+ 	public daftarLirs(){
+ 		return true;
+ 	}
  }
 
  ?>
