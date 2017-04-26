@@ -7,8 +7,10 @@
  	public tambah() {
  		return true;
  	}
-
  	public daftarLirs(){
+ 		return true;
+ 	}
+ 	public hapusMhs() {
  		return true;
  	}
  }
